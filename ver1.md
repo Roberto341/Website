@@ -10,3 +10,5 @@
 - Visual 
     * Added applications for <https://walichaty.com>
     * Added version info
+#### All updates will release with a new file so you can view previous changes 
+    Updated April 13 2021 5:55 pm
